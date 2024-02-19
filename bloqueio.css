@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+header h1{
+    color: rgb(255, 188, 44);
+    text-align: center;
+}
+nav{
+    margin: 5%;
+}
+
+footer img{
+    margin-left: 60%;
+    margin-top: 9%;
+}

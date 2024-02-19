@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+header h1{
+    color: rgb(255, 188, 44);
+    text-align: center;
+}
+header a h2{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+}
+header a {
+    text-decoration: none;
+}
+nav{
+    margin: 5%;
+}
+div{
+    text-align: center;
+    display: block;
+    
+}
+footer img{
+    margin-left: 60%;
+    margin-top: -4%;
+}
